@@ -1,0 +1,23 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "Pinging Linux Servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamLProgrammer/LAB1SD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamLProgrammer/LAB1SD/issues"
+  },
+  "homepage": "https://github.com/SamLProgrammer/LAB1SD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
